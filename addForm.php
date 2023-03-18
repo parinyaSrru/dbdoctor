@@ -36,7 +36,7 @@
             <input type="text" name="email" class="form-control">
         </div>
         <div class ="form-group">
-            <label for ="book">หนังสือ</label>
+            <label for ="book">แผนก</label>
             <select name="book_id" class="form-control">
                 <?php while($row=$result->fetch(PDO::FETCH_ASSOC)){?>
                    <option value="<?php echo $row["department_id"];?>">
