@@ -4,7 +4,7 @@
 ![doctor](https://github.com/parinyaSrru/dbdoctor/blob/main/image/messageImage_1679157506541.jpg?raw=true)
 
 # บันทึกข้อมูลเรียบร้อย
-![doctor] (https://github.com/parinyaSrru/dbdoctor/blob/main/image/messageImage_1679157773108.jpg?raw=true)
+![doctor](https://github.com/parinyaSrru/dbdoctor/blob/main/image/messageImage_1679157773108.jpg?raw=true)
 
 
 # ข้อมูลแพทย์ทั้งหมด
