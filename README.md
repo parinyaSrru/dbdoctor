@@ -1,2 +1,5 @@
 # dbdoctor
-![doctor](http://www.broadcastthai.com/download/image_download/download_2802.jpg)
+
+
+# ข้อมูลแพทย์ทั้งหมด
+![doctor](https://github.com/parinyaSrru/dbdoctor/blob/main/image/MicrosoftTeams-image.png?raw=true)
